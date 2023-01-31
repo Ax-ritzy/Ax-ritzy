@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ax-ritzy
+- 👋 Hi, I’m RIXY
 - 👀 I’m interested in Playing with Coding
 - 🌱 I’m currently learning CPP
 
